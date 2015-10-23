@@ -141,6 +141,7 @@ ul.social-in li  i.ic1:hover{
 	outline: none;
   top: 5px;
   right: 0px;
+  left:260px;
   background: url(../images/img-sprite.png)no-repeat -93px -13px ;
   width: 25px;
   height: 25px;
